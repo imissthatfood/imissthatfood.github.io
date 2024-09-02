@@ -4,7 +4,7 @@ author: Karen
 ---
 
 {% for bcat in site.udupi_categories %}
-   <section class='section'>
+   <section class='section' id="{{ bcat[1] }}">
       <h2 class="title"> {{ bcat[1] }} </h2>
          <div class='grid'>
             {% for recipe in site.recipes %}
