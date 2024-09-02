@@ -1,0 +1,57 @@
+---
+title: Search I miss that food
+author: Karen
+---
+
+<input class="input" type="text" id='search_input' placeholder="e.g. Boti kebab" />
+<button class="button" id='search_btn' onclick="imtf_search()">Search</button>
+
+Sorry, you have to click the Search button! I am not that good at web design - Neha
+
+<div class="fixed-grid has-1-col" id="search_results">
+	
+</div>
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.4.6/fuse.min.js" type="text/javascript"></script>
+<script>
+
+function fuse_search(data){
+const options = {
+    tokenize: true,
+    matchAllTokens: true,
+    threshold: 0.3,
+    maxPatternLength: 32,
+    minMatchCharLength: 1,
+    includeMatches: true,
+    keys: ["title", "excerpt", "url"],
+  };
+  const fuse = new Fuse(data.posts, options);
+  console.log(document.getElementById('search_input').value);
+  results = fuse.search(document.getElementById('search_input').value);
+  results_div = document.getElementById('search_results');
+  results_div.innerHTML = "";
+  for (r of results) {
+	console.log(r);
+	console.log(r.item.title, r.item.url);
+	var cell = document.createElement('div')
+	cell.class = "cell"
+	cell.innerHTML = "<a href=\"" + r.item.url + "\">" + r.item.title + "</a>"
+	results_div.appendChild(cell);
+	
+}
+    //console.log(data['posts'][0]);
+}
+
+function imtf_search(){
+fetch("/assets/js/recipe-data-builder.json")
+    .then((res) => {
+        if (!res.ok) {
+            throw new Error(`HTTP error! Status: ${res.status}`);
+        }
+        return res.json();
+    })
+    .then((data) =>{
+        fuse_search(data)})
+    .catch((error) =>
+        console.error("Unable to fetch data:", error));
+}
+</script>
