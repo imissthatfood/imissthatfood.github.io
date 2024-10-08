@@ -2,6 +2,7 @@
 title: Carrot Cake
 author: Karen
 section: bombay
+layout: recipe
 category: cakes
 ---
 

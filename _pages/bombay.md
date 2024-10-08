@@ -2,18 +2,22 @@
 title: Bombay Favourites
 author: Karen
 ---
-
-{% for bcat in site.bombay_categories %}
-   <section class='section' id="{{ bcat[0] }}">
-      <h2 class="title"> {{ bcat[1] }} </h2>
-         <div class='grid'>
+<table class="table is-hoverable">
+   <tbody>
+      {% for bcat in site.bombay_categories %}
+      <tr>
+         <th>
+            <a href ='{{bcat[0]}}'>{{ bcat[1] }}</a>
+         </th>
+         <td>
             {% for recipe in site.recipes %}
-               {% if recipe.section == 'bombay' and recipe.category == bcat[0] %}
-                  <div class="cell">
-                     <a href="{{ recipe.url }}"> {{ recipe.title }}</a>
-                  </div>
-               {% endif %}
+                {% if recipe.section == 'bombay' and recipe.category == bcat[0] %}
+                    <i> <a href="{{ recipe.url }}">
+                    {{ recipe.title }} </a></i> &middot;
+                {% endif %}
             {% endfor %}
-         </div>
-   </section>
-{% endfor %}
+         </td>
+      </tr>
+      {% endfor %}
+   </tbody>
+</table>

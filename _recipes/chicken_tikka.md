@@ -3,6 +3,7 @@ title: Chicken Tikka
 author: Karen
 section: bombay
 category: barbecue
+layout: recipe
 ---
 
 _Serve with naan, pudina chutney and tamarind chutney._

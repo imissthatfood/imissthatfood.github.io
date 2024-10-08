@@ -40,6 +40,8 @@ collections:
     permalink: /:collection/:name
   pages:
     output: true
+  categories:
+    output: true
 
 bombay_categories:
   barbecue: "Barbecue"
@@ -49,13 +51,13 @@ bombay_categories:
   desserts: "Desserts"
   rice: "Rice dishes"
   nonveg: "Non vegetarian"
-  snacks: "Snacks"
+  bsnacks: "Snacks"
   specials: "Specials"
   vegetarian: "Vegetarian"
 
 udupi_categories:
   breakfast: "Breakfast dishes"
-  snacks: "Snacks"
+  usnacks: "Snacks"
   saars: "Saars"
   dry: "Dry dishes"
   salads: "Salads"

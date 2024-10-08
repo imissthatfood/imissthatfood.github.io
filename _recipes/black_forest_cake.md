@@ -3,6 +3,7 @@ title: Black Forest Cake
 author: Karen
 section: bombay
 category: cakes
+layout: recipe
 ---
 
 _Bel loved this cake, so even after she went to the US, I would bake the cakes in India, send them to her and she would add the filling. Pampered Brat!!!_

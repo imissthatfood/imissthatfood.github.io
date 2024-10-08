@@ -3,6 +3,7 @@ title: Aloo paratha
 author: Karen
 section: udupi
 category: breakfast
+layout: recipe
 ---
 
 # Ingredients

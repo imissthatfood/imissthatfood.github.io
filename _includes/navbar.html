@@ -12,30 +12,15 @@
          <a class="navbar-item" href="/">
          Home
          </a>
-         <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link" href='/pages/bombay'>
-            Bombay favourites
-            </a>
-            <div class="navbar-dropdown">
-               {% for bcat in site.bombay_categories %}
-               <a class="navbar-item" href="/pages/bombay#{{ bcat[0]}}">
-               {{ bcat[1] }}
-               </a>
-               {% endfor %}
-            </div>
-         </div>
-         <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link" href='/pages/udupi'>
-            Udupi favourites
-            </a>
-            <div class="navbar-dropdown">
-               {% for bcat in site.udupi_categories %}
-               <a class="navbar-item" href="/pages/udupi#{{ bcat[0]}}">
-               {{ bcat[1] }}
-               </a>
-               {% endfor %}
-            </div>
-         </div>
+
+         <a class="navbar-item" href="/pages/bombay">
+         Bombay favourites
+         </a>
+
+         <a class="navbar-item" href="/pages/udupi">
+         Udupi favourites
+         </a>
+
       </div>
       <div class="navbar-end">
          <a class="navbar-item" href='/pages/cakes'>

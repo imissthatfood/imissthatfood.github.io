@@ -3,6 +3,7 @@ title: Boti Kebab
 author: Karen
 section: bombay
 category: barbecue
+layout: recipe
 ---
 
 This is a blander version of what we would eat at the "kaleji wallahs" at Hill Road. If you appreciate spice add 1 teaspoon chilli powder and one chopped chilli to the marinade. Serve with naan, pudina chutney and tamarind chutney.
