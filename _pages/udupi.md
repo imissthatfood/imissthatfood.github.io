@@ -1,23 +1,11 @@
 ---
 title: Udupi Favourites
 author: Karen
+section: udupi
+layout: section
 ---
-<table class="table is-hoverable">
-   <tbody>
-      {% for bcat in site.udupi_categories %}
-      <tr>
-         <th>
-            <a href ='{{bcat[0]}}'>{{ bcat[1] }}</a>
-         </th>
-         <td>
-            {% for recipe in site.recipes %}
-                {% if recipe.section == 'udupi' and recipe.category == bcat[0] %}
-                    <i> <a href="{{ recipe.url }}">
-                    {{ recipe.title }} </a></i> &middot;
-                {% endif %}
-            {% endfor %}
-         </td>
-      </tr>
-      {% endfor %}
-   </tbody>
-</table>
+
+These are a collection of recipes, painstakingly written out for us by my mother-in-law Kasturi Nayak.
+
+Still more to come... she is compiling a list of festivals, traditions and special festival food!
+

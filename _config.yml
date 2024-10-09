@@ -40,20 +40,40 @@ collections:
     permalink: /:collection/:name
   pages:
     output: true
-  categories:
-    output: true
+
+cats:
+  bombay:
+    barbecue: "Barbecue"
+    cakes: "Cakes"
+    chaat: "Chaat"
+    christmas: "Christmas sweets"
+    desserts: "Desserts"
+    rice: "Rice dishes"
+    nonveg: "Non vegetarian"
+    bsnacks: "Snacks"
+    specials: "Specials"
+    vegetarian: "Vegetarian"
+  udupi:
+    breakfast: "Breakfast dishes"
+    usnacks: "Snacks"
+    saars: "Saars"
+    dry: "Dry dishes"
+    salads: "Salads"
+    drinks: "Drinks"
+    sweets: "Sweets"
+
 
 bombay_categories:
-  barbecue: "Barbecue"
-  cakes: "Cakes"
-  chaat: "Chaat"
-  christmas: "Christmas sweets"
-  desserts: "Desserts"
-  rice: "Rice dishes"
-  nonveg: "Non vegetarian"
-  bsnacks: "Snacks"
-  specials: "Specials"
-  vegetarian: "Vegetarian"
+    barbecue: "Barbecue"
+    cakes: "Cakes"
+    chaat: "Chaat"
+    christmas: "Christmas sweets"
+    desserts: "Desserts"
+    rice: "Rice dishes"
+    nonveg: "Non vegetarian"
+    bsnacks: "Snacks"
+    specials: "Specials"
+    vegetarian: "Vegetarian"
 
 udupi_categories:
   breakfast: "Breakfast dishes"

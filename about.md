@@ -16,7 +16,7 @@ Imissthatfood has recipes from both sides of the family. Konkani favourites from
 </div>
 </div>
 
-<div class='column is-one-quarter'>
+<div class='column is-one-quarter has-text-centered'>
 <img src="/assets/bawarchi_namaste.gif">
 </div>
 </div>

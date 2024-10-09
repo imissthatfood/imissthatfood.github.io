@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>I Miss That Food!</title>
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+      <link rel="stylesheet" href="/assets/css/imtf.css">
+   </head>
+   <script>
+      document.addEventListener('DOMContentLoaded', () => {
+      
+        // Get all "navbar-burger" elements
+        const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+      
+        // Add a click event on each of them
+        $navbarBurgers.forEach( el => {
+          el.addEventListener('click', () => {
+      
+            // Get the target from the "data-target" attribute
+            const target = el.dataset.target;
+            const $target = document.getElementById(target);
+      
+            // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+            el.classList.toggle('is-active');
+            $target.classList.toggle('is-active');
+      
+          });
+        });
+      
+      });
+   </script>
+   {% include navbar.html %}
+   <div class='columns'>
+   <div class='column is-10 is-offset-1'>
+      <br/>
+      <br/>
+      <div class='card p-6'>
+         <a href='/pages/{{page.section}}'>{{ page.section }}</a>
+         <br />
+         <br />
+         <p class="title is-1"> {{ page.title }} </p>
+         <div class="content">
+            {{ page.content}}
+            <center>
+               <table class="table is-hoverable">
+                  <tbody>
+                     {% for bcat in site.cats[page.section] %}
+                     <tr>
+                        <th>
+                           <a href ='{{bcat[0]}}'>{{ bcat[1] }}</a>
+                        </th>
+                        <td>
+                           {% assign cat_recipes = site.recipes | where: 'category', bcat[0] %}
+                           {% for recipe in cat_recipes %}
+                           <i> <a href="{{ recipe.url }}">
+                           {{ recipe.title }} </a></i>
+                           {% unless forloop.last %}
+                           &middot;
+                           {% endunless %}
+                           {% endfor %}
+                        </td>
+                     </tr>
+                     {% endfor %}
+                  </tbody>
+               </table>
+            </center>
+         </div>
+      </div>
+   </div>
+   </body>
+</html>
