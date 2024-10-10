@@ -5,7 +5,6 @@ author: Karen
 
 <div class='columns'>
 <div class='column is-three-quarters'>
-<div class='content'>
 Imissthatfood was started way back in 1999. We had just moved to Singapore and my sisters would call and ask for recipes. So I decided, the easiest way to do this was to put all the recipes online, in effect, an online recipe book. In its initial avatar it was a free site on yahoo geocities… long defunct!
 <br/> <br/>
 Later I bought the domain name and converted the website to its current form… albeit more basic.
@@ -44,8 +43,6 @@ To everyone else who shared recipes… **Aunty Merlyn, Aunty Rissa, Aunty Myrtle
 
 And finally, to my nice cousin,  **Harnisch**, for patiently answering all my questions, and generally helping me out with the web-site.
 
- 
-
 # About the bawarchi
 
 I do not have a name yet. We are looking at Bawarchi, Maharaj, Dude (Meghna’s Choice). If anyone has any suggestions, please email Karen at imissthatfood@gmail.com. I would like a name which means Cook/Chef in any Indian language.
@@ -53,6 +50,8 @@ I do not have a name yet. We are looking at Bawarchi, Maharaj, Dude (Meghna’s 
 When Karen bought her first Cake Decorating Book in 1982, she painted me on a piece of card-paper. I worked as a book-mark there for many many years!
 
 Then early this year, I got a new life ... Karen animated me, and this is my new avataar, I am here to welcome you to Karen’s new site. Enjoy browsing, and more than that, enjoy cooking and eating! 
+
+
 
 # Contact
 

@@ -41,6 +41,10 @@ collections:
   pages:
     output: true
 
+section_names:
+  bombay: "Bombay favourites"
+  udupi: "Udupi favourites"
+
 cats:
   bombay:
     barbecue: "Barbecue"
