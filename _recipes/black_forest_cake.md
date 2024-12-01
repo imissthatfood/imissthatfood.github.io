@@ -7,6 +7,8 @@ layout: recipe
 ---
 
 _Bel loved this cake, so even after she went to the US, I would bake the cakes in India, send them to her and she would add the filling. Pampered Brat!!!_
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
 # Ingredients
 
@@ -27,6 +29,8 @@ _Bel loved this cake, so even after she went to the US, I would bake the cakes i
 * 6 tablespoons Kirsch
 * 12 glace cherries
 * chocolate caraque
+ 
+</div> <div class='column is-two-thirds p-3' markdown='1'>
  
 
 # Method
@@ -60,3 +64,5 @@ Cover the sides and top with cream, and decorate with glace cherries and chocola
 Refrigerate.
 
 You can soak the cherries in Kirsch, for an even better flavour
+
+</div> </div>

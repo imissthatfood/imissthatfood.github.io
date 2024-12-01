@@ -7,6 +7,8 @@ layout: recipe
 ---
 
 This is a blander version of what we would eat at the "kaleji wallahs" at Hill Road. If you appreciate spice add 1 teaspoon chilli powder and one chopped chilli to the marinade. Serve with naan, pudina chutney and tamarind chutney.
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
 # Ingredients
 
@@ -22,6 +24,8 @@ This is a blander version of what we would eat at the "kaleji wallahs" at Hill R
 * 1/2 teaspoon coarsely ground pepper
 * 1 teaspoon poppy seeds
 * 1/2 cup yoghurt
+ 
+</div> <div class='column is-two-thirds p-3' markdown='1'>
 
 # Method
 Trim excess fat off mutton pieces. If you would like it crisp, leave a thin layer of fat . Cut into small bite sized cubes.
@@ -37,5 +41,7 @@ Pour over the meat, rub the marinade into each piece and cover and leave to mari
 Grill on wooden skewers.
 
 Remember to soak the skewers in water earlier, so that they don't burn while grilling.
+
+</div> </div>
 
 

@@ -5,6 +5,8 @@ section: bombay
 category: chaat
 ---
 
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
 
 # Ingredients
@@ -30,6 +32,8 @@ category: chaat
 * Chilli powder 
 
 * Sweet tamarind chutney  
+ 
+</div> <div class='column is-two-thirds p-3' markdown='1'>
 
 
 
@@ -54,3 +58,5 @@ When they have soaked well press them between the palms of your hands to remove 
 Then soak in yoghurt beaten with sugar and salt to taste. 
 
 Garnish with the powders and serve with tamarind chutney.
+
+</div> </div>

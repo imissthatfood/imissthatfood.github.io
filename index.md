@@ -2,7 +2,7 @@
 title: I Miss That Food!
 ---
 
-<h1 class="subtitle is-2">Has this ever happened to you?</h1>
+<h1>Has this ever happened to you?</h1>
 
 
 You are sitting at home (wherever in the world home may be) and your mind drifts back to the days of wonderful home food … marzipan, pan-rolls, lonvas, stuffed chicken… the list just goes on and on.

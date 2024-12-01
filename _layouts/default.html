@@ -5,7 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>I Miss That Food!</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
-    <link rel="stylesheet" href="/assets/css/imtf.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css">
+
+ <!-- fonts -->
 
 </head>
 
@@ -36,19 +38,18 @@ document.addEventListener('DOMContentLoaded', () => {
 {% include navbar.html %}
 
 <div class='columns'>
-  <div class='column is-10 is-offset-1'>
+<div class='column is-three-fifths is-offset-one-fifth'>
     <br/>
     <br/>
-    <div class='card p-6'>
-	<p class="title is-1"> {{ page.title }} </p>
+	<p class="title is-1" background="pink"> {{ page.title }} </p>
+<br>
       <div class="content">
         
 	{{ content }}
 
       </div>
-    </div>
-  </div>
-</div>
+      </div>
+      </div>
 
 </body>
 

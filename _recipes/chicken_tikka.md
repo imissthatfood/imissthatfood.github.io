@@ -7,6 +7,8 @@ layout: recipe
 ---
 
 _Serve with naan, pudina chutney and tamarind chutney._
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
 # Ingredients
 
@@ -21,6 +23,8 @@ _Serve with naan, pudina chutney and tamarind chutney._
 * mace
 * 1/2 cup yoghurt
 * tandoori colour  
+ 
+</div> <div class='column is-two-thirds p-3' markdown='1'>
  
 
 # Method
@@ -39,6 +43,6 @@ _Remember to soak the skewers in water earlier, so that they don't burn while gr
 
 _It is easier to cut the chicken into cubes while still frozen. Use a chopper or a chef's knife, but be very careful, as the knife can slip._
 
- 
+</div> </div>
 
 

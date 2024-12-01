@@ -5,6 +5,8 @@ section: udupi
 category: snacks
 layout: recipe
 ---
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
 # Ingredients
 
@@ -16,6 +18,8 @@ layout: recipe
 * Salt to taste
 * Seasoning with oil and mustard
 * Oil for frying
+ 
+</div> <div class='column is-two-thirds p-3' markdown='1'>
 
 # Method
 
@@ -34,3 +38,5 @@ Now make lime sized balls flatten a little dip into besan batter and deep fry
 Besan, salt, hing, and a little chilli powder.
 
 Add water. Beat well and then dip the vadas in and fry
+
+</div> </div>

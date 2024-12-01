@@ -7,6 +7,8 @@ category: cakes
 ---
 
 _This is Althea's recipe. One of the few recipes that use oil instead of butter._
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
 # Ingredients
 
@@ -19,6 +21,8 @@ _This is Althea's recipe. One of the few recipes that use oil instead of butter.
 * 100 grams walnuts
 * 1 teaspoon garam masala
 * 2 cups dates
+ 
+</div> <div class='column is-two-thirds p-3' markdown='1'>
 
 # Method
 
@@ -35,3 +39,5 @@ Add vanilla essence, garam masala.
 Lastly fold in the flour.
 
 Bake in a lined greased pan. Serve warm.
+
+</div> </div>

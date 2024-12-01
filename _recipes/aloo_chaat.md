@@ -8,6 +8,8 @@ layout: recipe
 
 Chandru and I used to eat this at Samrat in Churchgate. In 2001 I took Neha and Meghna there too, and they enjoyed the aloo chaat as well as the fact that "Mummy and Daddy had many dates here!!!"
 
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 # Ingredients
 
 * potatoes 
@@ -20,6 +22,8 @@ Chandru and I used to eat this at Samrat in Churchgate. In 2001 I took Neha and 
 * tamarind pulp 
 * coriander leaves 
 * roasted and crushed peanuts
+ 
+</div> <div class='column is-two-thirds p-3' markdown='1'>
 
 # Method
 
@@ -38,3 +42,5 @@ Just before serving, mix in crushed peanuts and chopped coriander leaves.
 You could add a little bit of tamarind pulp too.
 
 Serve cold. 
+
+</div> </div>

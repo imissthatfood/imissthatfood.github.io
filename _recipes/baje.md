@@ -7,6 +7,8 @@ layout: recipe
 ---
 
 _Bajes can be prepared with potato, sweet potato, cauliflower, capsicum, breadfruit, brinjal etc. Bajes are normally cut into thin slices. 1/4 "_
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
 # Ingredients
 
@@ -16,6 +18,8 @@ _Bajes can be prepared with potato, sweet potato, cauliflower, capsicum, breadfr
 * hing
 * roasted geera
 * vegetable of your choice
+ 
+</div> <div class='column is-two-thirds p-3' markdown='1'>
 
 # Method
 
@@ -26,3 +30,5 @@ Jeera can be added (optional).
 The batter is to beaten well.
 
 Dip the vegetable and deep fry.
+
+</div> </div>
