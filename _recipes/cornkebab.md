@@ -40,6 +40,6 @@ Serve with naan, pudina chutney and tamarind chutney.
 
 
 
-Remember to soak the skewers in water earlier, so that they don't burn while grilling.
+_Remember to soak the skewers in water earlier, so that they don't burn while grilling._
 
  
