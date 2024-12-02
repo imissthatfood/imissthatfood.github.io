@@ -4,7 +4,7 @@ author: Karen
 ---
 
 <div class='columns'>
-<div class='column is-three-quarters'>
+<div class='column is-two-thirds'>
 Imissthatfood was started way back in 1999. We had just moved to Singapore and my sisters would call and ask for recipes. So I decided, the easiest way to do this was to put all the recipes online, in effect, an online recipe book. In its initial avatar it was a free site on yahoo geocities… long defunct!
 <br/> <br/>
 Later I bought the domain name and converted the website to its current form… albeit more basic.
@@ -13,9 +13,8 @@ Later I bought the domain name and converted the website to its current form… 
 Imissthatfood has recipes from both sides of the family. Konkani favourites from Chandru’s side and Bombay favourites from mine. As we moved and travelled widely, we tasted and enjoyed many different cuisines. I experimented and what appears here are our favourites, tried and tested many times over.
 
 </div>
-</div>
 
-<div class='column is-one-quarter has-text-centered'>
+<div class='column is-one-third has-text-centered'>
 <img src="/assets/bawarchi_namaste.gif">
 </div>
 </div>
