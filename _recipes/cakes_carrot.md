@@ -1,10 +1,15 @@
 ---
 title: Carrot Cake
 author: Karen
-section: Bombay
+section: bombay
 category: cakes
+layout: recipe
 ---
 _This is Althea’s recipe. One of the few recipes that use oil instead of butter._
+
+
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
 # Ingredients
 * 3 eggs
@@ -17,14 +22,22 @@ _This is Althea’s recipe. One of the few recipes that use oil instead of butte
 * 1 teaspoon garam masala
 * 2 cups dates
 
+</div> <div class='column is-two-thirds p-3' markdown='1'>
 
 # Method
 
 Soak dates in 1/4 cup of water with the soda bicarbonate powder mixed in.
+
 Beat together the oil and the sugar.
+
 Add eggs, one at a time, beating well after each addition.
+
 Add dates, walnuts and carrots. Mix well.
+
 Add vanilla essence, garam masala.
+
 Lastly fold in the flour.
+
 Bake in a lined greased pan. Serve warm.
- 
+
+</div> </div>

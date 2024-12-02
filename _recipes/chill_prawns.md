@@ -3,9 +3,13 @@ title: Chilli Prawns
 author: Karen
 section: bombay
 category: barbecue
+layout: recipe
 ---
 
 This is a recipe that Meghna loves… from a book by Nita Mehta (Tandoori cooking in the oven)
+
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
 # Ingredients
 
@@ -25,19 +29,26 @@ Marinade:
 * 2 teaspoon salt
 * 1 1/2 tablespoon vinegar
 
-
+</div> <div class='column is-two-thirds p-3' markdown='1'>
 
 # Method
 
 Wash, devein and dry prawns.
+
 Pat dry.
+
 Add oil and mix well.
+
 Grind all the other ingredients to a smooth paste with minimum water.
+
 Add the cornflour.
+
 Marinate the prawns in this for one hour.
+
 Grease a tray lined with aluminum foil.
+
 Bake at 160 degrees centigrade for 10-12 mins, basting with oil twice.
 
-_Serve with lemon wedges and coriander. I also serve jungli chutney_
- 
+_Serve with lemon wedges and coriander. I also serve jungli chutney_ 
 
+</div> </div>

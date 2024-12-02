@@ -3,39 +3,27 @@ title: Dahi Vada
 author: Karen
 section: bombay
 category: chaat
+layout: recipe
 ---
 
 <br>
 <div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
-
 # Ingredients
 
 * 1 cup urad dhal 
-
 * 2 green chillies chopped 
-
 * 2 sprigs curry leaves chopped fine 
-
 * salt to taste 
-
 * Yoghurt 
-
 * Salt
- 
 * Sugar 
-
-* Cummin powder 
-
+* Cumin powder 
 * Coriander powder 
-
 * Chilli powder 
-
 * Sweet tamarind chutney  
  
 </div> <div class='column is-two-thirds p-3' markdown='1'>
-
-
 
 # Method
 

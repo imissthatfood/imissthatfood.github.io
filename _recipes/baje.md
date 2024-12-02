@@ -2,11 +2,12 @@
 title: Baje
 author: Karen
 section: udupi
-category: snacks
+category: usnacks
 layout: recipe
 ---
 
 _Bajes can be prepared with potato, sweet potato, cauliflower, capsicum, breadfruit, brinjal etc. Bajes are normally cut into thin slices. 1/4 "_
+
 <br>
 <div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 

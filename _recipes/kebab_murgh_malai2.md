@@ -1,10 +1,15 @@
 ---
-title: Murgh Malai Kebab (Version 2) Kebab
+title: Murgh Malai Kebab (Version 2)
 author: Karen
 section: bombay
 category: barbecue
+layout: recipe
 ---
+
 _Meghna enjoyed this Kebab almost everyday for a month at Taj Coromandel, Chennai. When we complimenetd the Chef. Next morning, he came to our table with the recipe written out for us. And we have enjoyed it ever since!_
+
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
 # Ingredients
 
@@ -18,27 +23,36 @@ _Meghna enjoyed this Kebab almost everyday for a month at Taj Coromandel, Chenna
 * 2 eggs
 * salt
 
-
-
+</div> <div class='column is-two-thirds p-3' markdown='1'>
 
 # Method
 
 Marinate chicken pieces in ginger garlic paste and salt (just a little, as Amul cheese is salty) for an hour.
+
 (I also add the juice of one lime… not in the original recipe)
+
 Hang curd, in a muslin cloth, let the whey drain away.
+
 Add one egg, green cardamom powder, and geera powder.
+
 Grate Amul cheese, and mix all together.
+
 Add to marinated chicken.
+
 Leave for one hour.
 
 Heat a grill pan/skillet/bbq.
+
 Spray lightly with olive oil.
+
 Place pieces on the hot pan  … should sizzle, but not too hot.
 
 Don’t move them till you see that the edges are beginning to cook.
+
 Spray with olive oil. Flip.
+
 Should be opaque when ready, clear juice should run, with edges getting beautifully golden brown.
 
 _Leave on a plate for a few minutes before eating (if you can wait, Meghna can’t)_
  
-
+</div> </div>

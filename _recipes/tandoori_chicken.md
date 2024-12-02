@@ -3,8 +3,14 @@ title: Tandoori Chicken
 author: Karen
 section: bombay
 category: barbecue
+layout: recipe
 ---
+
 _Serve with naan, pudina chutney and tamarind chutney._
+
+
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
 # Ingredients
 
@@ -20,13 +26,20 @@ _Serve with naan, pudina chutney and tamarind chutney._
 * 1/2 cup yoghurt
 * tandoori colour
 
-
+</div> <div class='column is-two-thirds p-3' markdown='1'>
 
 # Method
 
 Mix all ingredients together well.
+
 Dry the chicken inside and out with a paper towel.
+
 Then rub in some salt. Rub the marinade inside and out.
+
 Marinate the chicken for 2-6 hours.
+
 Bake in a hot oven on a rack till dry and well cooked.
+
 Remember to baste with a little ghee often.
+
+</div> </div>

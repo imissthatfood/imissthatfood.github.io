@@ -2,7 +2,7 @@
 title: Batat vada
 author: Karen
 section: udupi
-category: snacks
+category: usnacks
 layout: recipe
 ---
 <br>

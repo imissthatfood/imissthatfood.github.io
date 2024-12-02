@@ -7,6 +7,7 @@ layout: recipe
 ---
 
 This is a blander version of what we would eat at the "kaleji wallahs" at Hill Road. If you appreciate spice add 1 teaspoon chilli powder and one chopped chilli to the marinade. Serve with naan, pudina chutney and tamarind chutney.
+
 <br>
 <div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
@@ -43,5 +44,3 @@ Grill on wooden skewers.
 Remember to soak the skewers in water earlier, so that they don't burn while grilling.
 
 </div> </div>
-
-

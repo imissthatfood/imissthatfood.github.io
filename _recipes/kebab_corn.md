@@ -3,8 +3,12 @@ title: Corn Kebab
 author: Karen
 section: bombay
 category: barbecue
+layout: recipe
 ---
 
+
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
 # Ingredients
 
@@ -19,6 +23,7 @@ category: barbecue
 * 1/2 teaspoon chilli powder
 * 1 teaspoon crushed ginger
 
+</div> <div class='column is-two-thirds p-3' markdown='1'>
 
 # Method
 
@@ -39,7 +44,6 @@ In a sticky emergency you can add some cornflour, but then the taste changes and
 Serve with naan, pudina chutney and tamarind chutney.
 
 
-
 _Remember to soak the skewers in water earlier, so that they don't burn while grilling._
 
- 
+</div> </div> 
