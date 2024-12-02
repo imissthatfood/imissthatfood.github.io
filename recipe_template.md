@@ -1,9 +1,9 @@
 ---
 title: <!-- ADD TITLE -->
 author: Karen
-section: <!-- ADD SECTION -->
-category: <!-- ADD CATEGORY -->
-layout: <!-- layout should be just the word recipe -->
+section: <!-- ADD SECTION bombay or udupi -->
+category: <!-- ADD CATEGORY, must match table-->
+layout: recipe
 ---
 
 <!-- REPLACE ME WITH PREAMBLE (optional) -->
