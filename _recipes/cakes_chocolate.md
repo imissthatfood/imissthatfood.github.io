@@ -1,7 +1,7 @@
 ---
 title: Chocolate Cake
 author: Karen
-section: Bombay
+section: bombay
 category: cakes
 layout: recipe
 ---
