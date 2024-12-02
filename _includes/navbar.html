@@ -9,6 +9,10 @@
   </div>
    <div id="navbarBasicExample" class="navbar-menu">
       <div class="navbar-start">
+	<img id="spicea" width="60"> &nbsp;
+	<img id="spiceb" width="60"> &nbsp;
+	<img id="spicec" width="60">
+	
          <a class="navbar-item" href="/">
 <p class='tut'>
          I Miss That Food!
@@ -43,3 +47,11 @@
       </div>
    </div>
 </nav>
+<script>
+var indices = _.sample([...Array(27).keys()], 3) // Sample three out of 27 spices
+document.getElementById('spicea').src = "/assets/img/spice/spice_"+indices[0]+".JPG"
+document.getElementById('spiceb').src = "/assets/img/spice/spice_"+indices[1]+".JPG"
+document.getElementById('spicec').src = "/assets/img/spice/spice_"+indices[2]+".JPG"
+// I don't have enough time to not repeat myself
+
+</script>
