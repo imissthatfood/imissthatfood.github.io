@@ -3,6 +3,8 @@ layout: default
 title: My cakes
 ---
 
+Neha is still working on this page! She says: "Eep!"
+
 {% for post in site.posts %}
 <div class="column is-8 is-offset-2">
    <h1 class='is-title-1'>{{ post.title }}</h1>
@@ -11,7 +13,7 @@ title: My cakes
    <br>
    <figure class="image">
       <center>
-         <img src="/assets/img/{{ post.image }}"/>
+         <img src="/assets/img/cake/{{ post.image }}"/>
       </center>
    </figure>
 </div>
