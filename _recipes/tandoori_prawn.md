@@ -1,5 +1,5 @@
 ---
-title: Tandoori Chicken
+title: Tandoori Prawn
 author: Karen
 section: bombay
 category: barbecue
