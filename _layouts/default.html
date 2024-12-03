@@ -6,7 +6,7 @@
     <title>I Miss That Food!</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css">
-    <script src="https://cdn.jsdelivr.net/npm/underscore@1.13.7/underscore-umd-min.js">
+    <script src="https://cdn.jsdelivr.net/npm/underscore@1.13.7/underscore-umd-min.js" />
 
  <!-- fonts -->
 
@@ -38,19 +38,17 @@ document.addEventListener('DOMContentLoaded', () => {
 
 {% include navbar.html %}
 
+<br><br>
 <div class='columns'>
-<div class='column is-three-fifths is-offset-one-fifth'>
-    <br/>
-    <br/>
-	<p class="title is-1" background="pink"> {{ page.title }} </p>
-<br>
-      <div class="content">
-        
-	{{ content }}
-
-      </div>
-      </div>
-      </div>
+<div class='column is-10 is-offset-1'>
+    <div class='card p-6'>
+	      <p class="title is-1" background="pink"> {{ page.title }} </p> <br>
+        <div class="content">
+           {{ content }}
+        </div> <!-- /content-->
+      </div> <!-- /card -->
+      </div> <!-- /column -->
+      </div> <!-- /columns -->
 
 </body>
 
