@@ -1,0 +1,32 @@
+---
+title: Green Chilli Chutney
+author: Karen
+section: bombay
+category: chaat
+layout: recipe
+---
+_This is as close as I can get to Badshah’s Falooda. Remember – spending a sweltering day shopping and then walking into airconditioned Badshah’s – Falooda in Heaven!!!!_
+
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
+
+# Ingredients
+
+** green chillies
+* onion
+* coriander leaves
+* salt
+* sugar
+* lemon juice
+* geera powder
+
+ 
+</div> <div class='column is-two-thirds p-3' markdown='1'>
+
+# Method
+
+Grind together green chillies, onion, a little coriander, salt and a pinch of sugar.
+
+When smooth, stir in some lemon juice and sprinkle with geera powder.
+
+</div> </div>
