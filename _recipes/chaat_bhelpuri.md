@@ -17,7 +17,7 @@ layout: recipe
 * onions diced
 * coriander chopped
 * raw mango chopped
-* tamarind chutney (recipe)
+* tamarind chutney ([recipe](chaat-tamarindchutney))
 * chilli chutney (recipe)
 * garlic chutney (no recipe … just grind together garlic red chillies salt coriander and geera powder)
 * lemon wedges
