@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html data-theme="light">
+<head>
+ <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>I Miss That Food!</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css">
+
+</head>
+<body>
+<p class="title is-1"> {{ page.title }} </p>
+Recipe from <span class='tutsmall'>I Miss That Food!</span> &nbsp; <a href='{{page.url | replace: "print", "recipes"}}'>Back to recipe</a> <br/> <br/>
+<div class="content">
+  {{ page.content }}
+</div>
+</body>
+
+</html>

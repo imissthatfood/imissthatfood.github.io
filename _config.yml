@@ -40,6 +40,9 @@ collections:
     permalink: /:collection/:name
   pages:
     output: true
+  print:
+    output: true
+    permalink: /:collection/:name
 
 section_names:
   bombay: "Bombay favourites"
