@@ -1,0 +1,49 @@
+---
+title: Ragda Pattice
+author: Karen
+section: bombay
+category: chaat
+layout: recipe
+---
+_My friend Yasmin (Singapore) makes this regularly. It tastes real good, especially if you make the sweet tamarind chutney.You do not get white vatana here, so I used chole._
+
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
+
+# Ingredients
+
+* onion
+* ginger
+* green chillies
+* coriander seeds
+* geera
+* tomatoes
+* anardhana/imli
+* chole
+
+
+</div> <div class='column is-two-thirds p-3' markdown='1'>
+
+# Method
+
+Boil chole or white vatana.
+
+Saute one onion, fresh ginger, green chillies, coriander seeds and geera. 
+
+Add the cooked salted chole or white vatana.
+
+Skin and pulp 2 tomatoes (cut a cross on each lightly and immerse in boiling water for a minute).
+
+Add to the chole and cook.
+
+Lastly add anardhana/imli.
+
+For Pattice:
+
+Mash potato well.
+
+Add slightly mashed green peas, green chillies and salt. Shape.
+
+Cook on a hot fire.
+
+</div> </div>

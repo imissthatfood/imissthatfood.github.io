@@ -5,7 +5,6 @@ section: bombay
 category: chaat
 layout: recipe
 ---
-
 _Chandru and I used to eat this at Samrat in Church gate. In 2001 I took Neha and Meghna there too, and they enjoyed the aloo chaat as well as the fact that “Mummy and Daddy had many dates here!!!”_
 
 <br>
@@ -31,7 +30,8 @@ Boil potatoes, cool , cube and add salt.
 
 Keep aside.
 
-Mix together fresh lemon juice, sugar, salt, chilli powder, cummin powder and coriander powder.
+Mix together fresh lemon juice, sugar, salt, chilli powder, cummin powder
+and coriander powder.
 
 Mix with the potato bits.
 
