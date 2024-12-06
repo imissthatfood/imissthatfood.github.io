@@ -1,13 +1,16 @@
 ---
 title: Prawn Patia
 author: Karen
-section: Bombay
+section: bombay
 category: nonveg
+layout: recipe
 ---
 __
 
-# Ingredients
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
+# Ingredients
 * Prawns
 * 5 tomatoes
 * 1 small bundle coriander leaves
@@ -19,6 +22,10 @@ __
 * salt to taste
 * 1 potato
 
+
+
+
+</div> <div class='column is-two-thirds p-3' markdown='1'>
 
 # Method
 
@@ -33,3 +40,5 @@ Add ground and dry masalas and salt and simmer for 4 minutes.
 Put in the potatoes, a little water and cook till half done.
 
 Add prawns and cook for a few minutes.
+
+</div> </div>
