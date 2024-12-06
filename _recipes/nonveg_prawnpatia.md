@@ -23,8 +23,6 @@ __
 * 1 potato
 
 
-
-
 </div> <div class='column is-two-thirds p-3' markdown='1'>
 
 # Method
