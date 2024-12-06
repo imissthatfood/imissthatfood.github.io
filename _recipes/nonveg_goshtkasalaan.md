@@ -1,10 +1,14 @@
 ---
-title: Gosht ka Salan
+title: Gosht ka Salaan
 author: Karen
-section: Bombay
+section: bombay
 category: nonveg
+layout: recipe
 ---
 _This recipe is from the Furniturewallah house … more specifically … from Abdul … their cook. Enjoy!!!_
+
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
 # Ingredients
 
@@ -20,6 +24,8 @@ _This recipe is from the Furniturewallah house … more specifically … from Ab
 * chilli powder
 * 1/2 kg dahi.
 
+
+</div> <div class='column is-two-thirds p-3' markdown='1'>
 
 # Method
 
@@ -38,3 +44,5 @@ Add powdered garam masala powder.
 Add potatoes.
 
 Cook on slow fire.
+
+</div> </div>

@@ -1,53 +1,42 @@
 ---
-title: Burmese Chicken
+title: Chicken Chop
 author: Karen
-section: Bombay
+section: bombay
 category: nonveg
+layout: recipe
 ---
-__
+_This recipe is from Sharmila Sen_
+
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
 # Ingredients
 
-* chicken
-* 200 gms. Onions
-* 100 gms ghee
-* 7 cardamom
-* 1 teaspoon jeera
-* 7 garlic
-* 1/2 cocoanut
-* 1 oz. Plums
-* 4 oz. Cream
-* 7 cloves
-* 2 teaspoons khus-khus
-* 1 inch ginger
-* 2 bay leaves
-* 25 gms almond
-* 25 gms pista
-* 75 gms curd
-* 2 inches cinnamon
-* 10 seeded red chillies
-* 1 teaspoon sugar
+* onions
+* ginger
+* garlic
+* green chillies
+* coriander leaves
+* vinegar
+* salt
+* pepper.
 
+
+</div> <div class='column is-two-thirds p-3' markdown='1'>
 
 # Method
 
-Fry onions lightly.
+Grind all together to a smooth paste.
 
-Add ginger garlic paste.
+Marinate chicken in this mixture for two days.
 
-Add water and bay leaves and cook well.
+Coat in beaten egg.
 
-Fry masala well.
+Coat in bread crumbs.
 
-Add chicken and salt.
+Chill.
 
-Remove the bay leaves.
+Shallow fry.
 
-Cook on slow fire until thick.
 
-Add sugar.
-
-Beat curd and cream well.
-
-Simmer till tender.
-
+</div> </div>

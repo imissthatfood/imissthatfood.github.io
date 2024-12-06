@@ -5,7 +5,7 @@ section: bombay
 category: nonveg
 layout: recipe
 ---
-__
+
 
 <br>
 <div class='columns'> <div class='column is-one-third p-3' markdown='1'>

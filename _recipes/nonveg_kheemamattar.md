@@ -1,10 +1,13 @@
 ---
 title: Kheema Mattar
 author: Karen
-section: Bombay
+section: bombay
 category: nonveg
+layout: recipe
 ---
-__
+
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
 # Ingredients
 
@@ -24,6 +27,9 @@ __
 * 1/2 teaspoon chilli powder
 * salt to taste
 
+
+
+</div> <div class='column is-two-thirds p-3' markdown='1'>
 
 # Method
 
@@ -48,3 +54,5 @@ Heat in a pressure cooker, full pressure for 5 minutes on medium heat.
 Open the cooker immediately.
 
 Garnish with coriander leaves and garam masala.
+
+</div> </div>

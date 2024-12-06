@@ -1,10 +1,14 @@
 ---
 title: Hungarian Chicken
 author: Karen
-section: Bombay
+section: bombay
 category: nonveg
+layout: recipe
 ---
-__
+
+
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
 # Ingredients
 
@@ -19,8 +23,10 @@ __
 * 1/2 teaspoon mixed spice
 
 
-# Method
 
+</div> <div class='column is-two-thirds p-3' markdown='1'>
+
+# Method
 
 Fry onions.
 
@@ -33,4 +39,5 @@ Cook till tender with bay leaf and spices.
 Add curd, cream, tomato ketchup, tomato puree and chilli powder.
 
 Simmer till it thickens.
- 
+
+</div> </div>

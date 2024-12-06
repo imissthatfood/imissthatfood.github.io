@@ -1,45 +1,44 @@
 ---
-title: Prawn Rechado
+title: Prawn Koliwada
 author: Karen
-section: Bombay
+section: bombay
 category: nonveg
+layout: recipe
 ---
-_Again, this is Audrey's Recipe... Tastes great!_
+
+
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
 # Ingredients
 
-* 25 red Kashmiri chillies.
-* 25 flakes garlic cut fine.
-* 2 table spoons coriander seeds,
-* 1 teaspoon haldi powder
-* 1 tablespoon geera seeds
-* 15 peppercorns.
-* 9 cloves
-* 3 1 inch size cinnamon pieces.
-* small marble size piece of tamarind (optional)
+* 400 gm Prawns shelled and deveined
+* 1 tbsp Plain flour
+* 1 tsp Garlic paste
+* 2 tsp Red chilli powder
+* 1 tsp Ginger paste
+* 1 tsp Garam masala
+* 1/2 tsp Thymol (Ajwain) seeds
+* 1 tbsp Lemon juice
+* Oil for deep frying
+* Salt to taste
+* A pinch of orange-red color
+* Onion slices and lemon wedges to garnish
 
+
+
+</div> <div class='column is-two-thirds p-3' markdown='1'>
 
 # Method
 
-Grind together chillies, coriander and geera and pepper.
+Wash the shelled and deveined prawns properly.
 
-Add garlic and grind in 1/2 a cup of vinegar to a thick wet paste. ( Add vinegar sparingly, a little at a time).
+In a bowl, combine the prawns with plain flour, garlic paste, red chilli powder, ginger paste, garam masala, Thymol seeds, lemon juice, salt and a pinch of orange –red color.
 
-If you are planning to stock this masala add a teaspoon of sugar and a teaspoon of salt.
+Marinate for 3 hours.
 
-Clean deveined prawns & keep aside.
+Heat the oil until it is very hot and deep fry the prawns over medium flame until they are crisp.
 
-Cut 4 Large Onions fine.
+Garnish it with onion slices and lemon wedges and serve.
 
-In 1 teacup oil, fry in oil in dekchi, until properly pinkish transparent and oil has onion aroma.
-
-Add 1 or 2 slit green chillies…again optional.
-
-To onions add prawns & fry.
-Keep stirring till prawns are pink.
-
-Then add enough masala to soak prawns & fry for 10 to 15 minutes.
-
-Then cover and take off fire.
-
-Add vinegar , salt or tamarind juice to taste.
+</div> </div>

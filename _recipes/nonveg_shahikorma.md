@@ -1,10 +1,14 @@
 ---
 title: Shahi Korma
 author: Karen
-section: Bombay
+section: bombay
 category: nonveg
+layout: recipe
 ---
-__
+
+
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
 # Ingredients
 
@@ -21,9 +25,12 @@ __
 * 10 grams cardamom
 
 
+
+</div> <div class='column is-two-thirds p-3' markdown='1'>
+
 # Method
 
-Roast and powder cashews, khus khus and cardamom.
+oast and powder cashews, khus khus and cardamom.
 
 Heat ghee, fry garlic ginger then onions and fry till light brown.
 
@@ -49,3 +56,6 @@ Add salt and increase heat.
 
 Cook till oil separates.
 
+
+
+</div> </div>

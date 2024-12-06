@@ -1,10 +1,13 @@
 ---
 title: Hara Masala Mutton
 author: Karen
-section: Bombay
+section: bombay
 category: nonveg
+layout: recipe
 ---
-_This is very tasty. Preparation takes a little time though as the recipe uses a lot of greens which have to be cleaned. This is Chandru’s favourite curry, but he likes it with chicken._
+
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
 # Ingredients
 
@@ -25,6 +28,8 @@ _This is very tasty. Preparation takes a little time though as the recipe uses a
 * oil
 
 
+</div> <div class='column is-two-thirds p-3' markdown='1'>
+
 # Method
 
 Blend together the greens and the curds.
@@ -41,3 +46,5 @@ Cover and cook on a slow fire until the mutton is tender and the oil separates.
 
 Sprinkle with freshly roasted geera(crushed) before serving.
 
+
+</div> </div>

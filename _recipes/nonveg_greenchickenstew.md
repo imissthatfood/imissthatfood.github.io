@@ -1,10 +1,14 @@
 ---
 title: Green Chicken Stew
 author: Karen
-section: Bombay
+section: bombay
 category: nonveg
+layout: recipe
 ---
-__
+
+
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
 # Ingredients
 
@@ -21,6 +25,9 @@ __
 * a small bunch of coriander leaves
 
 
+
+</div> <div class='column is-two-thirds p-3' markdown='1'>
+
 # Method
 
 Fry chicken pieces in oil till tender and just leaving the bone.
@@ -30,3 +37,5 @@ Grind all masalas together.
 Season with two minced onions. Add potatoes. Cook.
 
 Add sour lime juice last after adding fried chicken.
+
+</div> </div>

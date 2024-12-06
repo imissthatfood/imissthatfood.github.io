@@ -1,10 +1,13 @@
 ---
 title: Kadhai Chicken
 author: Karen
-section: Bombay
+section: bombay
 category: nonveg
+layout: recipe
 ---
-__
+
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
 # Ingredients
 
@@ -20,8 +23,9 @@ __
 
 
 
-# Method
+</div> <div class='column is-two-thirds p-3' markdown='1'>
 
+# Method
 
 Heat oil in frying pan.
 
@@ -38,3 +42,5 @@ Cook till chicken is tender and oil separates.
 Add chilli powder and stir. 
 
 Garnish with coriander.
+
+</div> </div>

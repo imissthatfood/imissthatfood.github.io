@@ -1,10 +1,14 @@
 ---
-title: 
+title: Frankie
 author: Karen
-section: Bombay
+section: bombay
 category: nonveg
+layout: recipe
 ---
 _TIBBS FRANKIE!!! since we cannot have the original, this is what we came up with after much experimentation! Enjoy!!!_
+
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
 # Ingredients
 
@@ -26,6 +30,9 @@ _TIBBS FRANKIE!!! since we cannot have the original, this is what we came up wit
 * ¼ tsp pepper powder
 * lemon juice
 
+
+
+</div> <div class='column is-two-thirds p-3' markdown='1'>
 
 # Method
 Grind together onion. ginger, garlic, green chillies till smooth with very little water.
@@ -63,3 +70,5 @@ Roll up and ENJOY.
 Keep napkins handy … VERY MESSY!
  
 
+
+</div> </div>

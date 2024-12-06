@@ -1,13 +1,16 @@
 ---
-title: Butter Chicken 
+title: Butter Chicken
 author: Karen
-section: Bombay
+section: bombay
 category: nonveg
+layout: recipe
 ---
 _Recipe from Lorraine Saldanha. This is the old style Butter Chicken. The chicken is cooked and shredded. This is what Neha and Meghna enjoyed at home_
 
-# Ingredients
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
+# Ingredients
 * 1 kg chicken – cooked and shredded
 * 1 tablespoon ginger paste
 * 1 tablespoon garlic paste
@@ -30,6 +33,9 @@ _Recipe from Lorraine Saldanha. This is the old style Butter Chicken. The chicke
 * kesar
 
 
+
+</div> <div class='column is-two-thirds p-3' markdown='1'>
+
 # Method
 
 Grind together nuts, onions, mawa and cream, tomato ketchup and tomatoes.
@@ -41,3 +47,5 @@ Add ground paste and all the chopped coriander.
 Add salt to taste.
 Cook for 15 minutes.
 
+
+</div> </div>

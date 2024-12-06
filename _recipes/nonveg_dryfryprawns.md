@@ -1,13 +1,16 @@
 ---
 title: Dry Fry Prawns
 author: Karen
-section: Bombay
+section: bombay
 category: nonveg
+layout: recipe
 ---
 _This is Audrey’s recipe. I haven’t tried it yet, but judging by the other recipes she has given me, it will be great._
 
-# Ingredients
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
+# Ingredients
 
 * 2 tablespoons bottle masala
  or 
@@ -17,6 +20,10 @@ _This is Audrey’s recipe. I haven’t tried it yet, but judging by the other r
 * deveined prawns
 * salt to taste
 * vinegar
+
+
+
+</div> <div class='column is-two-thirds p-3' markdown='1'>
 
 # Method
 
@@ -28,3 +35,5 @@ Again, keep aside for an hour.
 
 Then fry till dry.
  
+
+</div> </div>

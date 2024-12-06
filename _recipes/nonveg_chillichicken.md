@@ -1,11 +1,14 @@
 ---
 title: Chilli Chicken
-
 author: Karen
-section: Bombay
+section: bombay
 category: nonveg
+layout: recipe
 ---
-_This is the Shalimar Recipe from The Midday. Mummy has the cutting in her old red recipe book!_
+
+
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
 # Ingredients
 
@@ -18,6 +21,8 @@ _This is the Shalimar Recipe from The Midday. Mummy has the cutting in her old r
 * 2 onions chopped
 * 1/4 teaspoon sugar
 
+
+</div> <div class='column is-two-thirds p-3' markdown='1'>
 
 # Method
 
@@ -35,3 +40,5 @@ Add stock drained from chicken and thickened with cornflour mixed in water.
 
 Cook chicken in sauce for 5 minutes. Garnish with fried chillies.
 
+
+</div> </div>

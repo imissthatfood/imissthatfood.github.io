@@ -1,10 +1,14 @@
 ---
 title: Hyderabadi Chicken
 author: Karen
-section: Bombay
+section: bombay
 category: nonveg
+layout: recipe
 ---
-__
+
+
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
 # Ingredients
 
@@ -23,6 +27,10 @@ __
 * 1 tablespoon ghee
 * 1 cup curd
 
+
+
+</div> <div class='column is-two-thirds p-3' markdown='1'>
+
 # Method
 
 Roast kesar and pound in sour lime juice.
@@ -37,3 +45,5 @@ Add potatoes and kesar.
 
 Thicken.
 
+
+</div> </div>

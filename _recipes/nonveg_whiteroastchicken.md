@@ -6,6 +6,9 @@ category: nonveg
 ---
 _There are no quantities specified for this recipe, make it to your taste!_
 
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
+
 # Ingredients
 
 * chicken
@@ -18,6 +21,8 @@ _There are no quantities specified for this recipe, make it to your taste!_
 * pudina
 * kotmir
 * ghee
+
+</div> <div class='column is-two-thirds p-3' markdown='1'>
 
 # Method
 
@@ -38,3 +43,4 @@ Add water as required.
 Now add the chicken.
 
 Garnish with pudina and kotmir.
+</div> </div>

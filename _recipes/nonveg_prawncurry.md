@@ -1,13 +1,16 @@
 ---
 title: Goan Prawn Curry
 author: Karen
-section: Bombay
+section: bombay
 category: nonveg
+layout: recipe
 ---
 _This is Audrey’s recipe. Finally, the perfect prawn curry!!!_
 
-# Ingredients
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
+# Ingredients
 
 * 2 tsps dhania
 * 1 tsp geera
@@ -22,6 +25,10 @@ _This is Audrey’s recipe. Finally, the perfect prawn curry!!!_
 * 1/2 a coconut ground fine
 * 1/2 teaspooon vinegar
 * salt
+
+
+
+</div> <div class='column is-two-thirds p-3' markdown='1'>
 
 # Method
 
@@ -40,3 +47,5 @@ Wait till it bubbles once. Take it off the heat.
 If sourness is required, 2-3 drops vinegar
 
 If thickness is required, add drumstick/bhendi.
+
+</div> </div>

@@ -1,12 +1,17 @@
 ---
-title: Dahi Murggh
+title: Dahi Murgh
 author: Karen
-section: Bombay
+section: bombay
 category: nonveg
+layout: recipe
 ---
 _Ne and Meg’s Favourite Chicken Curry. Very simple and very tasty._
 
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
+
 # Ingredients
+
 
 * 1 kilo chicken pieces
 * 1 medium onion chopped
@@ -22,6 +27,9 @@ _Ne and Meg’s Favourite Chicken Curry. Very simple and very tasty._
 * 2 ripe tomatoes
 * mint/coriander to garnish
 * 1 pinch sugar
+
+
+</div> <div class='column is-two-thirds p-3' markdown='1'>
 
 # Method
 
@@ -42,3 +50,6 @@ Turn heat low and cover tightly and cook till chicken is tender.
 If necessary, uncover and dry water from the gravy.
 
 Garnish with coriander and mint.
+
+
+</div> </div>

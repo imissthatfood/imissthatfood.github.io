@@ -1,9 +1,14 @@
 ---
 title: Bhajji Ghosh
 author: Karen
-section: Bombay
-category: nonveg--
+section: bombay
+category: nonveg
+layout: recipe
+---
 __
+
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
 # Ingredients
 * 1/2 kg mutton
@@ -18,8 +23,11 @@ __
 * 1 bundle each coriander, shepoo, methi, chowlee, khatta bhaji, palak
 
 
-# Method
 
+
+</div> <div class='column is-two-thirds p-3' markdown='1'>
+
+# Method
 Fry onion, garlic and ginger till brown.
 
 Add chilli powder, mixed spice and haldi powder. Put in meat with a little water.
@@ -37,3 +45,5 @@ Cool.
 Open.
 
 Cook on very low heat till gravy is dry .Serve with lime and chappatis.
+
+</div> </div>

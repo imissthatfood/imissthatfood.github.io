@@ -1,10 +1,14 @@
 ---
 title: Chicken Korma
 author: Karen
-section: Bombay
+section: bombay
 category: nonveg
+layout: recipe
 ---
-__
+
+
+<br>
+<div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
 # Ingredients
 
@@ -23,6 +27,9 @@ __
 * 6 cloves
 
 
+
+</div> <div class='column is-two-thirds p-3' markdown='1'>
+
 # Method
 
 Grind together all except curd.
@@ -34,3 +41,5 @@ Fry three minced onions add chicken and masala.
 Cook on low heat. Add 1 cup curd and cook till tender.
 
 Add juice of 1 sour lime.
+
+</div> </div>
