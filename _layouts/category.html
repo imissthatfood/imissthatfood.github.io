@@ -8,7 +8,7 @@ layout: default
 
 <br />
 <div class='grid'>
-   {% for recipe in site.recipes %}
+   {% for recipe in site.recipes | sort: "title" %}
    {% if recipe.section == page.section and recipe.category == page.category %}
    <div class="cell">
       <a href="{{ recipe.url }}"> {{ recipe.title }}</a>

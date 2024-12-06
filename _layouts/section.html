@@ -13,7 +13,7 @@ layout: default
             </th>
             <td>
                {% assign cat_recipes = site.recipes | where: 'category', bcat[0] %}
-               {% for recipe in cat_recipes %}
+               {% for recipe in cat_recipes | sort: "title" %}
                <i> <a href="{{ recipe.url }}">
                {{ recipe.title }} </a></i>
                {% unless forloop.last %}
