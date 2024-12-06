@@ -30,7 +30,7 @@ layout: recipe
 
 # Method
 
-oast and powder cashews, khus khus and cardamom.
+Roast and powder cashews, khus khus and cardamom.
 
 Heat ghee, fry garlic ginger then onions and fry till light brown.
 
