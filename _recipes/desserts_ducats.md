@@ -5,7 +5,7 @@ section: bombay
 category: desserts
 layout: recipe
 ---
-Very easy, very tasty_
+_Very easy, very tasty_
 
 <br>
 <div class='columns'> <div class='column is-one-third p-3' markdown='1'>
