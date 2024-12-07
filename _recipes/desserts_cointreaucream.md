@@ -1,5 +1,5 @@
 ---
-title: Chocolate Ducats
+title: Cointreau Cream
 author: Karen
 section: bombay
 category: desserts
