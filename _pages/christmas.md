@@ -15,4 +15,4 @@ ready-made sweets overflowing on the stalls outside Cheap Jack, Eureka and Mulch
 
 Midnight Mass, buying the huge balloons for Neha and Meghna after Mass
  
-.. but most of all.... Home-made sweets... the making and the eating, the giving and  the receiving, and the inevitable eating and the bloating!
+.. but most of all.... Home-made sweets... the making and the packing, the giving and  the receiving, and the inevitable eating and the bloating!
