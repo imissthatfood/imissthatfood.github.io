@@ -6,7 +6,7 @@ category: christmas
 layout: category
 ---
 
-*Macaroons*
+**Macaroons**
 
 Time: Bake for approx. 20 minutes
 Don’t get uptight on the weights of the cashew and the icing sugar. I keep adding a mixture of these two (equal quantities)  spoon by spoon until a spoonful of the mixture stands firm on the grease proof paper, without liquid running out. This is because the size of the egg white can vary.
