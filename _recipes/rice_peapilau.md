@@ -2,7 +2,7 @@
 title: Peas Pilau
 author: Karen
 section: bombay
-category: vegetarian
+category: rice
 layout: recipe
 ---
 __
