@@ -2,7 +2,7 @@
 title: Geera Rice
 author: Karen
 section: bombay
-category: vegetarian
+category: rice
 layout: recipe
 ---
 __
