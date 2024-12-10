@@ -30,31 +30,24 @@ Cook on a slow fire until it is thick and heavy and leaves the vessel in a lump.
 Allow to cool and then knead in the icing sugar as required.
  
 I usually use about 100 grams less than what the recipe states.
+</div> </div>
 
-
-My tips:
+**My tips:**
 
 Time: about 45 mins but will depend on the level of heat and the pan and how much water you add while grinding.
 
-Soak OVERNIGHT.
-
-Remove all traces of skin from the cashews.
-
-Grind with minimum water.
+Soak Cashews OVERNIGHT. Remove all traces of skin from the cashews. Grind with minimum water.
 
 The original recipe says one wineglass of rose water. This is 40-50 ml to taste. 
 
 The aunties would add almond essence. Use very sparingly. 
 
-I add sugar 1.5 times the cashew weight while cooking. 
+I add sugar 1.5 times the cashew weight while cooking. Add extra icing sugar as needed while kneading and almost cold.
 
 Readiness test:
 
-Becomes whitish on the edges and begins to form a mass.
+Becomes whitish on the edges and begins to form a mass. A small ball will hold its shape in icing sugar.
  
-A small ball will hold its shape in icing sugar.
- 
-Add extra icing sugar as needed while kneading and almost cold.
 
 
-</div> </div>
+
