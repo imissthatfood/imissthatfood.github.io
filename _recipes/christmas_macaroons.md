@@ -38,7 +38,7 @@ The surface will also lose its shine.
 
 Remove from the tray when cool.
 
-
+</div> </div>
 My Tips:
 Time: Bake for approx. 20 minutes
 
@@ -59,4 +59,3 @@ Leave to cool for two hours on the paper.
 
 
 
-</div> </div>
