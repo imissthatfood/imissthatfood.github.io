@@ -42,7 +42,7 @@ Remove from the tray when cool.
 
 **My Tips:**
 
-Don’t get uptight on the weights of the cashew and the icing sugar. I keep adding a mixture of these two (equal quantities) spoon by spoon the mixture stands firm on the grease proof paper, without liquid running out. This is because the size of the egg white can vary.
+Don’t be too focussed on the weights of the cashew and the icing sugar. I keep adding a mixture of these two (equal quantities) spoon by spoon the mixture stands firm on the grease proof paper, without liquid running out. This is because the size of the egg white can vary.
 
 After placing the mounds on the greaseproof paper (use two teaspoons), let it sit for awhile (about 10-15 mins).
 
