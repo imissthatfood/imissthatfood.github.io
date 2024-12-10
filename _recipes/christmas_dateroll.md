@@ -42,6 +42,21 @@ Make small balls, flatten to discs and roll in icing sugar.
 If you like you can flatten the sides with a knife.
 
 
+My Tips:
+
+Time: about 60 mins but will depend on the level of heat and the pan.
+
+Chop the dates finely. 
+
+Soak in a little warm water
+
+Dry the milk down till it leaves a track in the pan. 
+
+For this sweet, high heat is fine.
+
+Remember to taste the walnuts as they may look good but could sometimes taste sour and oily.
+
+Readiness test: forms a mass. A small ball will hold its shape in icing sugar
 
 
 </div> </div>

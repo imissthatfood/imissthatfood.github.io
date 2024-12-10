@@ -39,6 +39,24 @@ The surface will also lose its shine.
 Remove from the tray when cool.
 
 
+My Tips:
+Time: Bake for approx. 20 minutes
+
+Don’t get uptight on the weights of the cashew and the icing sugar. 
+
+I keep adding a mixture of these two (equal quantities) spoon by spoon the mixture stands firm on the grease proof paper, without liquid running out. 
+
+This is because the size of the egg white can vary.
+
+After placing the mounds on the greaseproof paper (use two teaspoons), let it sit for awhile (about 10-15 mins).
+
+Bake at 130 about 20 mins. 
+
+Readiness test: slightly offwhite and base barely brown.
+
+Leave to cool for two hours on the paper.
+
+
 
 
 </div> </div>

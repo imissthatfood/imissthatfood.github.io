@@ -42,7 +42,20 @@ Then you can dip the fried culculs in.
 
 Test a few first. I find this step difficult to judge.
  
-_Work fast but be careful, the syrup can burn you badly!_
+Work fast but be careful, the syrup can burn you badly!
 
+
+
+My tips:
+
+Sugar syrup at 230-240 degrees Celcius is perfect.
+
+Use a spider and dip the fried cooled culculs in the sugar.
+
+Shake away excess sugar.
+
+Spread loosely on greaseproof paper.
+
+I cover my entire kitchen platform with greaseproof paper so they can spread out well.
 
 </div> </div>
