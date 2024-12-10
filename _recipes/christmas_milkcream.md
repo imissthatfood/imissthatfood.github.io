@@ -33,30 +33,23 @@ Cook till thick and heavy.
 
 Mould the next day.
  
+</div> </div>
 
-
-My tips:
+**My tips:**
 
 Time: 80 mins on slow fire, stirring till tracks form 
 
 20 mins after sugar is added
 
-10-20 mins after all the ingredients are added.
-
-Absolutely do not let any cream/film form either on the surface or on the sides of the vessel.
+10-20 mins after all the ingredients are added.Absolutely do not let any cream/film form either on the surface or on the sides of the vessel.
  
 This is what causes the milk cream to get brown.
 
 Readiness test:
 
-Forms a mass.
-
-A small ball will hold its shape in icing sugar.
-
-A small ball dropped into a glass water will hold its shape and not blur into the water. 
+Forms a mass. A small ball will hold its shape in icing sugar.A small ball dropped into a glass water will hold its shape and not blur into the water. 
 
 Water stays absolutely clear.
 
 
 
-</div> </div>
