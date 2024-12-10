@@ -44,9 +44,9 @@ Test a few first. I find this step difficult to judge.
  
 Work fast but be careful, the syrup can burn you badly!
 
+</div> </div>
 
-
-My tips:
+**My tips:**
 
 Sugar syrup at 230-240 degrees Celcius is perfect.
 
@@ -58,4 +58,3 @@ Spread loosely on greaseproof paper.
 
 I cover my entire kitchen platform with greaseproof paper so they can spread out well.
 
-</div> </div>
