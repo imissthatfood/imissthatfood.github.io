@@ -1,11 +1,10 @@
 ---
-title:
+title: Jalfrazie
 author: Karen
 section: bombay
 category: vegetarian
 layout: recipe
 ---
-__
 
 <br>
 <div class='columns'> <div class='column is-one-third p-3' markdown='1'>
