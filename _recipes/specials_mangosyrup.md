@@ -1,5 +1,5 @@
 ---
-title:
+title: Mango Syrup
 author: Karen
 section: bombay
 category: specials

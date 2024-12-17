@@ -1,5 +1,5 @@
 ---
-title:
+title: Foogyas
 author: Karen
 section: bombay
 category: specials
