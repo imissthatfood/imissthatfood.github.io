@@ -11,15 +11,15 @@ layout: recipe
 
 # Ingredients
 
-2 Potatoes
-1 Onion
-1 tablespoon Green chillies finely cut
-2 tablespoons Coriander leaves finely cut
-1/2 teaspoon Curry leaves finely cut
-1/2 tsp. garam masala powder
-Pinch of Hing
-oil
-mustard seeds
+* 2 Potatoes
+* 1 Onion
+* 1 tablespoon Green chillies finely cut
+* 2 tablespoons Coriander leaves finely cut
+* 1/2 teaspoon Curry leaves finely cut
+* 1/2 tsp. garam masala powder
+* Pinch of Hing
+* oil
+* mustard seeds
 
 
 
@@ -42,7 +42,6 @@ Mix mashed potato and hing.
 Make a lime sized ball of chappatti dough.
 
 Roll into a small puri.
-
 
 Keep a lump of potato mixture in the middle and bring together the ends of the puri so that a ball is formed.
 
