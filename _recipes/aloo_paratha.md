@@ -2,7 +2,7 @@
 title: Aloo paratha
 author: Karen
 section: udupi
-category: breakfast
+category: usnacks
 layout: recipe
 ---
 <br>
