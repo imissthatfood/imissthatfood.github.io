@@ -1,7 +1,7 @@
 ---
 title: Aloo Paratha
 author: Karen
-section: Konkani
+section: Udupi
 category: breakfast
 layout: recipe
 ---
