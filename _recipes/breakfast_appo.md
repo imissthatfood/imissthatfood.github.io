@@ -5,14 +5,13 @@ section: udupi
 category: breakfast
 layout: recipe
 ---
-__
 
 <br>
 <div class='columns'> <div class='column is-one-third p-3' markdown='1'>
 
 # Ingredients
 
-3 measures rice (measure = 1 medium katora)
+* 3 measures rice (measure = 1 medium katora)
 * 1 measure black gram dhal
 * 1 teaspoon methi
 
