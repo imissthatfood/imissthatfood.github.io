@@ -1,10 +1,11 @@
 ---
 title: Aloo Paratha
 author: Karen
-section: Udupi
+section: udupi
 category: breakfast
 layout: recipe
 ---
+
 
 <br>
 <div class='columns'> <div class='column is-one-third p-3' markdown='1'>
@@ -22,12 +23,11 @@ layout: recipe
 * mustard seeds
 
 
-
-
 </div> <div class='column is-two-thirds p-3' markdown='1'>
 
 # Method
 
+Make a chapati dough.
 
 Cook alu, peel and grate or mash.
 
@@ -47,13 +47,13 @@ Keep a lump of potato mixture in the middle and bring together the ends of the p
 
 Roll, dusting in wheat flour. Roast with ghee on a flat tava.
 
+I make two puris, put the potato mixture in the middle of one, dampen the edges with a little water, and place the second puri on top. 
 
-_I make two puris, put the potato mixture in the middle of one, dampen the edges with a little water, and place the second puri on top. Then cut off the excess dough with a pizza cutter/knife. 
+Then cut off the excess dough with a pizza cutter/knife. 
 
 Roll and roast. 
 
-This way you do not get any thick doughy parts._
- 
+This way you do not get any thick doughy parts.
 
 
 
