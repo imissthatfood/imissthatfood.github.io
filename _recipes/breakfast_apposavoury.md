@@ -1,11 +1,10 @@
 ---
-title: Appo
+title: Appo Savoury
 author: Karen
 section: udupi
 category: breakfast
 layout: recipe
 ---
-__
 
 <br>
 <div class='columns'> <div class='column is-one-third p-3' markdown='1'>
