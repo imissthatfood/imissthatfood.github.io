@@ -1,5 +1,5 @@
 ---
-title: sannapolo1
+title: Sannapolo1
 author: Karen
 section: udupi
 category: usnacks
