@@ -14,6 +14,12 @@ layout: recipe
 
 # Ingredients
 
+* 6 cups water
+* 1 tennis-ball sized piece of jaggery, powdered
+* 5 cardamom pods
+* 3 limes
+* 3 tsp. pepper
+* 1’’ piece dried ginger
 
 
 
@@ -21,6 +27,9 @@ layout: recipe
 
 # Method
 
+Crush together cardamom pods, pepper and dried ginger.
+
+Add powdered jaggery, water and squeeze lime in to the mix.
 
 
 </div> </div>
