@@ -1,5 +1,5 @@
 ---
-title: 
+title: Paanak
 author: Karen
 section: udupi
 category: drinks
