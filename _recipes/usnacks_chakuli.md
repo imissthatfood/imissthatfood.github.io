@@ -1,5 +1,5 @@
 ---
-titale: Chakuli 4 in 1
+title: Chakuli 4 in 1
 author: Karen
 section: udupi
 category: usnacks
